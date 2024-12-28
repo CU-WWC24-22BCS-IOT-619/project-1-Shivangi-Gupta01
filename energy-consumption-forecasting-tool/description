@@ -1,0 +1,12 @@
+Energy Consumption Forecasting Tool is a web application designed to predict future energy consumption patterns using historical data and machine learning algorithms.
+The tool provides users with predictive analytics, a user-friendly dashboard, customizable alerts, and detailed reporting to help manage and plan energy usage 
+effectively.
+
+The project is built using the MERN stack (MongoDB, Express, React, Node.js) for the web interface and Python for implementing the machine learning model.
+
+Key Features:
+Historical Data Visualization: Display past energy consumption records.
+Predictive Analytics: Forecast energy usage for selected dates.
+Interactive Dashboard: User-friendly interface for input and results.
+Scalable Backend: Supports integration with advanced ML models.
+Customizable Alerts: Generate alerts based on usage trends.
